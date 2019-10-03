@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exam1</string>
+    <string name="label_cm">CM :</string>
+    <string name="label_inch">INCH :</string>
+    <string name="btn_cm_string">To CM</string>
+    <string name="btn_inch_string">To INCH</string>
+</resources>
